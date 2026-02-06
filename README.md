@@ -24,7 +24,7 @@
 ## Operating Code
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26BRzozg4TCBXv6QU/giphy.gif" width="520"/>
+  <img src="assets/batman_rooftop.gif" width="520" />
 </p>
 
 I’ve always admired the idea behind Batman —  
